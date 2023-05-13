@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/zoom-vente/static/css/main.f3c743b4.css",
+    "main.js": "/zoom-vente/static/js/main.8f953395.js",
+    "static/media/hero-bcg-2023.jpg": "/zoom-vente/static/media/hero-bcg-2023.3a14bd266cdc71776a6d.jpg",
+    "static/media/hero-bcg.jpeg": "/zoom-vente/static/media/hero-bcg.a876f19f6786a3aca992.jpeg",
+    "static/media/hero-bcg-2.jpeg": "/zoom-vente/static/media/hero-bcg-2.789918645915c8acb36f.jpeg",
+    "static/media/zslogo.svg": "/zoom-vente/static/media/zslogo.0a51b8fb491212ac81b6e213131e4655.svg",
+    "index.html": "/zoom-vente/index.html",
+    "main.f3c743b4.css.map": "/zoom-vente/static/css/main.f3c743b4.css.map",
+    "main.8f953395.js.map": "/zoom-vente/static/js/main.8f953395.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3c743b4.css",
+    "static/js/main.8f953395.js"
+  ]
+}
